@@ -1,1 +1,0 @@
-console.log("Employee Portal Backend Running");
